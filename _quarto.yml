@@ -2,17 +2,23 @@ project:
   type: website
 
 website:
-  title: "SSOS_WorkingGroup"
+  title: "Sample Survey and Official Statistics Working Group at the Indian Statistical Institute"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: people.qmd
+        text: People
+      - href: projects.qmd
+        text: Projects
+      
+  body-footer: |
+    <!-- <p><img style="height:75px; " src="https://www.isical.ac.in/isical_web/images/logo.png" /></p> -->
 
 format:
   html:
     theme:
-      - cosmo
+      - spacelab
       - brand
     css: styles.css
     toc: true

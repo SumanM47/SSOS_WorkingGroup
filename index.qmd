@@ -1,11 +1,11 @@
 ---
-title: "SSOS_WorkingGroup"
+title: "Sample Survey and Official Statistics Working Group at the Indian Statistical Institute"
 ---
 
-This is a Quarto website.
+# **About the Working Group**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The purpose of the Working Group on Survey Sampling and Official Statistics (SSOS) at ISI is to take demand driven Government projects. It will work as a support group for fulfilling the mandate of the Sampling and Official Statistics Unit (SOSU) to promote research and training in Survey Sampling and Official Statistics.   It constitutes a larger pool of ISI Faculty members and its activities in the SSOS area are recognized as ISI work, without boundaries of division/centres coming in the way. If any project is taken by some members of the group, the existing rules and modalities will apply.
 
-```{r}
-1 + 1
-```
+# **Contact Us**
+
+Email: [ssoswg@isical.ac.in](mailto:ssoswg@isical.ac.in)

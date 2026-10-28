@@ -1,0 +1,9 @@
+color:
+  palette:
+    grey: "#0A0B0C"
+  foreground: grey
+  
+logo:
+  small: https://www.isical.ac.in/isical_web/images/logo.png
+  medium: https://www.isical.ac.in/isical_web/images/logo.png
+  large: https://www.isical.ac.in/isical_web/images/logo.png
