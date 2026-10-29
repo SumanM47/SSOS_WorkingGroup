@@ -2,7 +2,7 @@
 title: "Projects Worked on by Group Members"
 ---
 
-## *Ongoing Project*
+## **Ongoing Project**
 
 -   International Passenger Survey 2026 (Ministry of Tourism, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
 -   Support for Statistical Strengthening for the DES, Tripura (Govt of Tripura) [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
@@ -15,7 +15,7 @@ title: "Projects Worked on by Group Members"
 -   Assessing Differences in Estimates of Health, Nutrition, and Well-Being Indicators: A Comparative Analysis of Administrative Data and National Sample Surveys in India. In collaboration with: IDEAS, ISI, Kolkata (Ministry of Statistics and Programme Implementation, GoI) [(Contact: Kajori Banerjee)](mailto:kajori.b2012@gmail.com)
 -   A framework for strengthening statistical analysis, validation, and research-based evaluation of energy-related datasets and programmes with an aim to enhance evidence-based policy formulation in the field of energy efficiency (Bureau of Energy Efficiency, Ministry of Power, GoI) [(Contact: Kaushik Jana)](mailto:kaushikjana11@gmail.com)
 
-## *Past Projects*
+## **Past Projects**
 
 -   Revision of National Coal Index (Ministry of Coal, GoI), 2022 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
 -   Developing a Methodology for evaluation of impact of Foreign Trade Policy (DGCI&S, Ministry of Commerce and Industry, GoI), 2015-20 [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
