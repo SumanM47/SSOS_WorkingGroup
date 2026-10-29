@@ -2,54 +2,57 @@
 title: "Projects Worked on by Group Members"
 ---
 
--   International Passenger Survey 2026 (ongoing: Ministry of Tourism, GoI)
--   Support for Statistical Strengthening for the DES, Tripura (ongoing: Govt of Tripura)
--   Revision of National Coal Index 2026 (ongoing: Ministry of Coal. GoI)
--   Developing a methodology for disbursement of funds to PRIs and SDG based performance indicators of PRIs (ongoing: Sixth State Finance Commission, Govt of West Bengal)
--   Development of District Good Governance Index (TIFT, Government of Tripura)
--   Reviewing Delivery of Entrusted Services and Financial Health of Rural Local Bodies in West Bengal (Fifth State Finance Commission, Govt of West Bengal)
--   Rural Consumer Sentiment Survey: A Statistical Data Audit (RBI)
--   Social Audit Applying Survey Sampling and Analytics (NITI Aayog, GoI)
--   Development of National Mineral Index (Ministry of Mines, GoI)
--   Development of National Lignite Index (Ministry of Coal, GoI)
--   Revision of National Coal Index 2022 (Ministry of Coal. GoI)
+## *Ongoing Project*
+
+-   International Passenger Survey 2026 (Ministry of Tourism, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Support for Statistical Strengthening for the DES, Tripura (Govt of Tripura) [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Revision of National Coal Index 2026 (Ministry of Coal, GoI) [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Developing a methodology for disbursement of funds to PRIs and SDG based performance indicators of PRIs (Sixth State Finance Commission, Govt of West Bengal) [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Comprehensive Study on Machinery Footprint & Employment Scenarios in India’s Textile & Apparel Sector (Ministry of Textiles, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Development of a methodology for collecting data for Trade in Services (DGCI&S, Ministry of Commerce and Industry, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Reviewing the existing System of Compilation of Trade Indices 2026 (DGCI&S, Ministry of Commerce and Industry, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   National Survey on Extent and Pattern of Substance Use in India. In collaboration with: National Drug Dependence Treatment Centre (NDDTC), AIIMS, New Delhi. (Ministry of Social Justice and Empowerment, GoI) [(Contact: Kajori Banerjee)](mailto:kajori.b2012@gmail.com)
+-   Assessing Differences in Estimates of Health, Nutrition, and Well-Being Indicators: A Comparative Analysis of Administrative Data and National Sample Surveys in India. In collaboration with: IDEAS, ISI, Kolkata (Ministry of Statistics and Programme Implementation, GoI) [(Contact: Kajori Banerjee)](mailto:kajori.b2012@gmail.com)
+-   A framework for strengthening statistical analysis, validation, and research-based evaluation of energy-related datasets and programmes with an aim to enhance evidence-based policy formulation in the field of energy efficiency (Bureau of Energy Efficiency, Ministry of Power, GoI) [(Contact: Kaushik Jana)](mailto:kaushikjana11@gmail.com)
+
+## *Past Projects*
+
+-   Revision of National Coal Index (Ministry of Coal, GoI), 2022 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Developing a Methodology for evaluation of impact of Foreign Trade Policy (DGCI&S, Ministry of Commerce and Industry, GoI), 2015-20 [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Changes in pattern of irrigation, cultivation and livelihood of rural Bengal: The experience of Jamalpur block of Bardhaman (Department of Science and Technology, Government of West Bengal), 2016-19 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Development of National Coal Index (Ministry of Coal, GoI), 2018 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Estimation of Demand for Currency and Assessment of Demand-Supply Mismatches at Aggregate and Regional Level (Reserve Bank of India), 2016 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   International Passenger Survey (Ministry of Tourism, GoI), 2015-16 [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   Methodological Study towards Compilation and Estimation of Service Trade Statistics (DGCI&S, Ministry of Commerce and Industry, GoI), 2015-16 [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   Accountability of Local Governments in West Bengal – A study on gram Panchayats, funded by 4th State Finance Commission of West Bengal, 2015 [(Contact: Sandip Mitra)](mailto:sandipisi@gmail.com)
+-   ISI-RBI collaboration research project (Reserve Bank of India), 2014-15 [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   Fine tuning of normalization strategies for Gujarat engineering admissions (Government of Gujarat), 2014 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   A Study on CSR Villages of IISCO Steel Plant (ISP), 2013 [(Contact: Sandip Mitra)](mailto:sandipisi@gmail.com)
+-   Reviewing the existing System of Compilation of Trade Indices (DGCI&S, Ministry of Commerce and Industry, GoI), 2013 [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Indo-Bangladesh Sharing of the Teesta water: Understanding the Needs of West Bengal (Government of West Bengal), 2013 \[Analytic Support to one-man commission of Dr. Kalyan Rudra\] [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   International Passenger Survey in India (Ministry of Tourism, GoI), 2010 - 2011 [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   Analysis of data from initial rounds of Inflation Expectation Survey of Households (Reserve Bank of India), 2010 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Chemical Weapons Convention – Methodology for OCPF Plant Site Selection for Inspection (Ministry of Chemicals and Fertilizers, GoI), 2008 [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Development of District Good Governance Index (TIFT, Government of Tripura) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Reviewing Delivery of Entrusted Services and Financial Health of Rural Local Bodies in West Bengal (Fifth State Finance Commission, Govt of West Bengal) [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Rural Consumer Sentiment Survey: A Statistical Data Audit (RBI) [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Social Audit Applying Survey Sampling and Analytics (NITI Aayog, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Development of National Mineral Index (Ministry of Mines, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Development of National Lignite Index (Ministry of Coal, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
 -   Handholding with Coal Controllers Office for implementation of National
--   Coal Index Developed by ISI (Ministry of Coal)
--   Study on perception about Monsoon onset date (Extension of work done by ISS Probationers, Ministry of Statistics and Programme Implementation, GoI)
--   Developing a Browser Based Application Software for Collecting Data on Tablets NSSO 77th Round (Ministry of Statistics and Programme Implementation, GoI)
--   A Study on Socio-Economic Impact of National Highway 6 (Ministry of Road Transport and Highways, GoI)
--   Development of National Coal Index (Ministry of Coal, GoI), 2018
--   Estimation of Demand for Currency and Assessment of Demand-Supply Mismatches at Aggregate and Regional Level (Reserve Bank of India), 2016
--   Changes in pattern of irrigation, cultivation and livelihood of rural Bengal: The experience of Jamalpur block of Bardhaman (Department of Science and Technology, Government of West Bengal), 2016-19
--   Fine tuning of normalization strategies for Gujarat engineering admissions (Government of Gujarat), 2014
--   Indo-Bangladesh Sharing of the Teesta water: Understanding the Needs of West Bengal (Government of West Bengal), 2013 \[Analytic Support to one-man commission of Dr. Kalyan Rudra\]
--   Analysis of data from initial rounds of Inflation Expectation Survey of Households (Reserve Bank of India), 2010
--   Chemical Weapons Convention – Methodology for OCPF Plant Site Selection for Inspection (Ministry of Chemicals and Fertilizers, GoI), 2008
--   A Study on CSR Villages of IISCO Steel Plant (ISP), 2013
--   Accountability of Local Governments in West Bengal – A study on gram Panchayats, funded by 4th State Finance Commission of West Bengal,2015
--   Comprehensive Study on Machinery Footprint & Employment Scenarios in India’s Textile & Apparel Sector (ongoing; Ministry of Textiles, GoI)
--   Development of a methodology for collecting data for Trade in Services (ongoing: DGCI&S, Ministry of Commerce and Industry, GoI)
--   Reviewing the existing System of Compilation of Trade Indices 2026 (DGCI&S, Ministry of Commerce and Industry, GoI - as Chairperson of the constituted committee)
--   Developing an Appropriate Structure Preserving Estimation (SPREE) Method for Estimating Domain-Level Aggregates from NSSO Household Surveys: Minimal Calibration Method (Ministry of Statistics and Programme Implementation, GoI)
--   Developing an Appropriate Methodology for Estimating Proportion of Villages with Specific Infrastructural Facility (Ministry of Statistics and Programme Implementation, GoI)
--   Study of determining Haemoglobin thresholds for anemia in children (Extension of work done by ISS Probationers, Ministry of Statistics and Programme Implementation, GoI)
--   Study on mitigating Non-Communicable diseases (Extension of work done by ISS Probationers, Ministry of Statistics and Programme Implementation, GoI)
--   Statistical Detection of Fraudulent ATM Transactions through National Financial Switch (RS Software/National Payments Corporation of India)
--   Household Survey on Livelihoods and Other Aspects in Surguja, Chhattisgarh (Directorate of Economics and Statistics (DES), Govt of Chhattisgarh)
--   Study on MSME (RBI, Eastern Regional Office)
--   Estimation of Demand for Currency and Assessment of Demand-Supply Mismatches at Aggregate and Regional Level (Reserve Bank of India), 2016
--   Developing a Methodology for evaluation of impact of Foreign Trade Policy 2015-20 (DGCI&S, Ministry of Commerce and Industry, GoI)
--   Reviewing the existing System of Compilation of Trade Indices 2013 (DGCI&S, Ministry of Commerce and Industry, GoI)
--   Model-Based District-Level Estimates Based on the Household Consumption Expenditure Survey (HCES): 2022-23 For Uttar Pradesh (Ministry of Statistics and Program Implementation, GoI)
--   International Passenger Survey 2015-16 (Ministry of Tourism, GoI)
--   Methodological Study towards Compilation and Estimation of Service Trade Statistics 2015-16 (DGCI&S, Ministry of Commerce and Industry, GoI)
--   ISI-RBI collaboration research project, 2014-15 (Reserve Bank of India)
--   International Passenger Survey in India : 2010 - 2011, (Ministry of Tourism, GoI)
--   Feedback from the Indian Statistical Institute on Consumer Confidence Survey, Rounds 1 to 9 (Reserve Bank of India)
--   Observations from the Indian Statistical Institute about Survey on Perceived Inflation (Reserve Bank of India)
--   A study of Rural Indebtedness in West Bengal
--   Differential Impact Study on Modern Rice Technology
--   National Survey on Extent and Pattern of Substance Use in India, 2025-2027. In collaboration with: National Drug Dependence Treatment Centre (NDDTC), AIIMS, New Delhi. (Funded by Ministry of Social Justice and Empowerment, GoI)
--   Assessing Differences in Estimates of Health, Nutrition, and Well-Being Indicators: A Comparative Analysis of Administrative Data and National Sample Surveys in India, 2026-2027. In collaboration with: IDEAS, ISI, Kolkata (Ministry of Statistics and Programme Implementation, GoI)
--   A framework for strengthening statistical analysis, validation, and research-based evaluation of energy-related datasets and programmes with an aim to enhance evidence-based policy formulation in the field of energy efficiency, 2026-2028 (Bureau of Energy Efficiency, Ministry of Power, GoI)
--   Food and Housing Security among NC State Students, 2019 (OIED, NCSU)
+-   Coal Index Developed by ISI (Ministry of Coal, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Study on perception about Monsoon onset date (Extension of work done by ISS Probationers, Ministry of Statistics and Programme Implementation, GoI) [(Contact: Debasis Sengupta)](mailto:dean.isi202022@gmail.com)
+-   Developing a Browser Based Application Software for Collecting Data on Tablets NSSO 77th Round (Ministry of Statistics and Programme Implementation, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   A Study on Socio-Economic Impact of National Highway 6 (Ministry of Road Transport and Highways, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Developing an Appropriate Structure Preserving Estimation (SPREE) Method for Estimating Domain-Level Aggregates from NSSO Household Surveys: Minimal Calibration Method (Ministry of Statistics and Programme Implementation, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Developing an Appropriate Methodology for Estimating Proportion of Villages with Specific Infrastructural Facility (Ministry of Statistics and Programme Implementation, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Study of determining Haemoglobin thresholds for anemia in children (Extension of work done by ISS Probationers, Ministry of Statistics and Programme Implementation, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Study on mitigating Non-Communicable diseases (Extension of work done by ISS Probationers, Ministry of Statistics and Programme Implementation, GoI) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Statistical Detection of Fraudulent ATM Transactions through National Financial Switch (RS Software/National Payments Corporation of India) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Household Survey on Livelihoods and Other Aspects in Surguja, Chhattisgarh (Directorate of Economics and Statistics (DES), Govt of Chhattisgarh) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Study on MSME (RBI, Eastern Regional Office) [(Contact: Nachiketa Chattopadhyay)](mailto:nachiketag@gmail.com)
+-   Model-Based District-Level Estimates Based on the Household Consumption Expenditure Survey (HCES): 2022-23 For Uttar Pradesh (Ministry of Statistics and Program Implementation, GoI) [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   Feedback from the Indian Statistical Institute on Consumer Confidence Survey, Rounds 1 to 9 (Reserve Bank of India) [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   Observations from the Indian Statistical Institute about Survey on Perceived Inflation (Reserve Bank of India) [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   A study of Rural Indebtedness in West Bengal [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
+-   Differential Impact Study on Modern Rice Technology [(Contact: Kajal Dihidar)](kajaldihidar@gmail.com)
